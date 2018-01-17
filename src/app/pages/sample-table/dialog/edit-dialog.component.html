@@ -1,0 +1,25 @@
+<form (ngSubmit)="onSubmit(newForm.value)" [formGroup]="newForm">
+    <div mat-dialog-content>
+        <h2>Edit Post</h2>
+        <div class="form-group">
+            <mat-form-field>
+                <input matInput formControlName="userId" placeholder="User Id" required numeric>
+            </mat-form-field>
+        </div>
+        <div class="form-group">
+            <mat-form-field>
+                <textarea matInput formControlName="title" placeholder="Title" required></textarea>
+            </mat-form-field>
+        </div>
+        <div class="form-group">
+            <mat-form-field>
+                <textarea matInput formControlName="body" placeholder="Content" required></textarea>
+            </mat-form-field>
+        </div>
+        <input hiddeh formControlName="id" placeholder="User Id" required>
+    </div>
+    <div mat-dialog-actions class="text-right">
+        <a mat-raised-button color="warn" (click)="onNoClick()">Cancel</a>
+        <button mat-raised-button color="primary]" >Update</button>
+    </div>
+</form>

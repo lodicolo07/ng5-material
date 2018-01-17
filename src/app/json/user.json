@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Luffy",
+      "lastName": "Monkey",
+      "userName": "monkey.d.luffy",
+      "email": "monkey.d.luffy@onepiece.com",
+      "address": "East Blue",
+      "gender": "Male",
+      "position": "Captain of Strawhat Pirate",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 2,
+      "firstName": "Zoro",
+      "lastName": "Roronoa",
+      "userName": "roronoa.zoro",
+      "email": "roronoa.zoro@onepiece.com",
+      "address": "East Blue",
+      "gender": "Male",
+      "position": "Swordsman",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 3,
+      "firstName": "Sanji",
+      "lastName": "Vinsmoke",
+      "userName": "vinsmoke.sanji",
+      "email": "vinsmoke.sanji@onepiece.com",
+      "address": "North Blue",
+      "gender": "Male",
+      "position": "Cook",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 4,
+      "firstName": "Nami",
+      "lastName": "",
+      "userName": "nami",
+      "email": "nami@onepiece.com",
+      "address": "East Blue",
+      "gender": "Female",
+      "position": "Navigator",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 5,
+      "firstName": "Robin",
+      "lastName": "Nico",
+      "userName": "nico.robin",
+      "email": "nico.robin@onepiece.com",
+      "address": "Ohara",
+      "gender": "Female",
+      "position": "Archaeologist",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 6,
+      "firstName": "Usopp",
+      "lastName": "",
+      "userName": "usopp",
+      "email": "usopp@onepiece.com",
+      "address": "East Blue",
+      "gender": "Male",
+      "position": "Snipper",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 7,
+      "firstName": "Chopper",
+      "lastName": "Tony Tony",
+      "userName": "tony.tony.chopper",
+      "email": "tony.tony.chopper@onepiece.com",
+      "address": "Grandline",
+      "gender": "Male",
+      "position": "Doctor",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 8,
+      "firstName": "Brook",
+      "lastName": "",
+      "userName": "brook",
+      "email": "brook@onepiece.com",
+      "address": "Grandline",
+      "gender": "Male",
+      "position": "Musician",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 9,
+      "firstName": "Flam",
+      "lastName": "Cutty",
+      "userName": "franky",
+      "email": "franky@onepiece.com",
+      "address": "Water 7",
+      "gender": "Male",
+      "position": "Shipwright",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    },
+    {
+      "id": 10,
+      "firstName": "Ace",
+      "lastName": "Gol",
+      "userName": "gol.d.ace",
+      "email": "gol.d.ace@onepiece.com",
+      "address": "East Blue",
+      "gender": "Male",
+      "position": "2nd Comander of Whitebeard Pirate",
+      "imageUrl": "",
+      "password": "123",
+      "privilege": "user"
+    }
+  ],
+  "posts": [
+    {
+      "userId": "1",
+      "title": "test",
+      "body": "tes",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "test2",
+      "body": "test2",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "wew",
+      "body": "erewrew test test test test test t etst etst tetsct etst est "
+    },
+    {
+      "userId": 123,
+      "title": "sample",
+      "body": "sample",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.example-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.mat_sidebar {
+    width: 100%;
+    max-width: 320px;
+    background: rgb(255, 255, 255)
+}
